@@ -1,0 +1,28 @@
+
+a {
+	text-decoration:none;
+	#color:BLUE;#
+	#border:5px solid red;
+	border-radius:15px;#
+}
+p {
+	color:black;
+}
+h1 {
+	text-align:center;
+}
+a:visited {
+  color: purple;
+}
+div img{
+	float:left;
+	border: 1px solid red ;
+	border-radius: 5px;
+	margin: 0 20px 0 0;
+	}
+div p{
+	margin: 0 0 0 2px;
+	}
+head a{
+	text-align: left;
+	}
